@@ -1,0 +1,125 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Heebo', sans-serif;
+}
+
+.header {
+	width: 510px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fff;
+}
+
+
+
+.header .container {
+	text-align: center;
+	padding: 50px 0;
+	color: var(--Dark-Color, #21243D);
+}
+
+.first img{
+	text-align: center;
+}
+
+.first img + h1 {
+	margin-top: 50px;
+	font-size: 44px;
+	font-weight: 700;
+	text-align: left;
+}
+
+.first p {
+	margin-top: 40px;
+	font-size: 16px;
+	font-weight: 400;
+	text-align: left;
+}
+
+.first button {
+	margin-top: 38px;
+	padding: 9px 21px;
+	font-size: 20px;
+	font-weight: 500;
+	color: #fff;
+	border-radius: 2px;
+	border: solid #fff;
+	background-color: #FF6464;
+}
+
+.main {
+	background-color: #EDF7FA;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	
+}
+
+ .spans {	
+	font-size: 22px;
+	font-weight: 400;
+	
+	text-align: center;
+	margin-bottom: 20px;
+	
+	
+}
+
+
+.main button {
+	text-align: center;
+	background-color: #fff;
+	
+	border-radius: 4px;
+	box-shadow: 0px 4px 10px 0px rgba(187, 225, 250, 0.25);
+	border: #fff;
+	width: 510px;
+	height: 210px;
+	
+	
+	
+
+}
+
+button .title {
+	font-size: 26px;
+	font-weight: 700;
+	margin-top: 24px;
+	margin-bottom: 66px;
+	
+	
+}
+
+button  .year {
+	display: block;
+	color: #fff;
+	background-color: #142850;
+	border-radius: 16px;
+	width: 75.646px;
+height: 25px;
+text-align: center;
+font-size: 18px;
+font-weight: 900;
+	margin-top: 20px;
+	margin-left: 28.06px;
+	text-decoration: none;
+	
+	
+}
+
+
+button  .sub {
+	margin-top: 17px;
+	text-align: left;
+	font-size: 16px;
+	font-weight: 400;
+	margin-left: 28px;
+	margin-right: 33px;
+	margin-bottom: 82px;
+	
+}
